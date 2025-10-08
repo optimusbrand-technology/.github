@@ -3,19 +3,14 @@
 **Optimusbrand Technology** is the innovation and engineering arm of **Optimusbrand**, dedicated to designing, developing, and operating **modern, cloud-native, and AI-driven software solutions**.  
 We aim to redefine how digital products are conceived and delivered — prioritizing scalability, maintainability, and automation across every stage of the software lifecycle.
 
----
 
 ## 🚀 Mission
 
 To empower organizations to accelerate their digital transformation by providing **modular, intelligent, and efficient technology solutions** that reduce time-to-market and operational complexity.
 
----
-
 ## 🌍 Vision
 
 To be a global leader in **AI-augmented software engineering**, enabling the creation of sustainable and high-performance digital ecosystems through innovation, automation, and shared standards.
-
----
 
 ## 💡 What We Build
 
@@ -25,8 +20,6 @@ Optimusbrand Technology focuses on creating:
 - **Data-driven and AI-enabled services** to enhance decision-making.  
 - **Automated development pipelines** and standardized engineering processes.  
 - **Secure, compliant, and observable platforms** ready for multi-tenant and enterprise environments.
-
----
 
 ## 🏗️ Engineering Principles
 
@@ -40,8 +33,6 @@ Our architectural and development principles ensure scalability, flexibility, an
 - **API-First** approach with versioned and documented interfaces.  
 - **Observability and SLO Monitoring** for proactive reliability management.  
 - **Automation** across CI/CD, quality checks, and deployment.  
-
----
 
 ## 🧠 Technology Foundations
 
@@ -57,8 +48,6 @@ Our architectural and development principles ensure scalability, flexibility, an
 
 > The stack is continuously evolving with a strong focus on interoperability, automation, and developer productivity.
 
----
-
 ## 🧭 Core Values
 
 | Value | Description |
@@ -69,8 +58,6 @@ Our architectural and development principles ensure scalability, flexibility, an
 | **Scalability** | Design for growth and elasticity from day one. |
 | **Collaboration** | Empower distributed teams with clear communication and ownership. |
 | **Innovation** | Leverage AI and cloud technologies to accelerate delivery. |
-
----
 
 ## 🧑‍💻 Contribution Guidelines
 
@@ -84,7 +71,6 @@ We welcome contributions from internal teams and collaborators.
 
 All pull requests are automatically validated via CI/CD and peer review.
 
----
 
 ## 📞 Contact
 
