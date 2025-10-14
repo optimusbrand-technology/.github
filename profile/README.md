@@ -1,4 +1,4 @@
-# 🧠 Optimusbrand Technology
+# 🧠 Optimusbrand Tech.
 
 **Optimusbrand Technology** is the innovation and engineering arm of **Optimusbrand**, dedicated to designing, developing, and operating **modern, cloud-native, and AI-driven software solutions**.  
 We aim to redefine how digital products are conceived and delivered — prioritizing scalability, maintainability, and automation across every stage of the software lifecycle.
