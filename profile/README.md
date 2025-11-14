@@ -1,6 +1,5 @@
 
-<img width="1200" height="480" alt="Banner Optimus" src="https://github.com/user-attachments/assets/d8063ea1-ccca-4fe7-925b-a359391100c7" />
-
+<img width="1125" height="450" alt="Optimus - Banner Rocket" src="https://github.com/user-attachments/assets/bdbd8726-0280-4d84-be30-a1a73574d97d" />
 
 **Optimusbrand Technology** is the innovation and engineering arm of **Optimusbrand**, dedicated to designing, developing, and operating **modern, cloud-native, and AI-driven software solutions**.  
 We aim to redefine how digital products are conceived and delivered — prioritizing scalability, maintainability, and automation across every stage of the software lifecycle.
