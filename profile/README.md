@@ -1,87 +1,229 @@
+<img width="3068" height="801" alt="Imagotipo Completo - Blaze Red" src="https://github.com/user-attachments/assets/ef427518-84e6-48a5-a461-2701932eb354" />
 
-<img width="1125" height="450" alt="Optimus - Banner Rocket" src="https://github.com/user-attachments/assets/bdbd8726-0280-4d84-be30-a1a73574d97d" />
+<div align="center">
 
-**Optimusbrand Technology** is the innovation and engineering arm of **Optimusbrand**, dedicated to designing, developing, and operating **modern, cloud-native, and AI-driven software solutions**.  
-We aim to redefine how digital products are conceived and delivered — prioritizing scalability, maintainability, and automation across every stage of the software lifecycle.
+### Building AI-powered cloud-native products for the next generation of digital healthcare and enterprise software.
 
+[![Website](https://img.shields.io/badge/Website-optimusbrand.com-0A66C2?style=for-the-badge)](https://optimusbrand.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Optimusbrand-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/company/optimusbrand))
+[![GitHub](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github)](https://github.com/optimusbrand-technology)
 
-## 🚀 Mission
-
-To empower organizations to accelerate their digital transformation by providing **modular, intelligent, and efficient technology solutions** that reduce time-to-market and operational complexity.
-
-## 🌍 Vision
-
-To be a global leader in **AI-augmented software engineering**, enabling the creation of sustainable and high-performance digital ecosystems through innovation, automation, and shared standards.
-
-## 💡 What We Build
-
-Optimusbrand Technology focuses on creating:
-- **Reusable Components** to accelerate delivery.  
-- **Cloud-native architectures** based on modular business capabilities.  
-- **Data-driven and AI-enabled services** to enhance decision-making.  
-- **Automated development pipelines** and standardized engineering processes.  
-- **Secure, compliant, and observable platforms** ready for multi-tenant and enterprise environments.
-
-## 🏗️ Engineering Principles
-
-Our architectural and development principles ensure scalability, flexibility, and long-term sustainability:
-
-- **Domain-Driven Design (DDD)** for clear business alignment.  
-- **Package Business Capabilities (PBC)** for modular, reusable building blocks.  
-- **Event-Driven Architecture** to support autonomy and asynchronous communication.  
-- **Cloud Native Infrastructure** leveraging managed services for scalability and resilience.  
-- **Security by Design** integrated into every stage of development.  
-- **API-First** approach with versioned and documented interfaces.  
-- **Observability and SLO Monitoring** for proactive reliability management.  
-- **Automation** across CI/CD, quality checks, and deployment.  
-
-## 🧠 Technology Foundations
-
-| Area | Technologies and Practices |
-|-------|-----------------------------|
-| **Backend** | .NET 8, C#, Refit, Polly, xUnit, FluentAssertions |
-| **Frontend (Web)** | Angular 17+, TypeScript, TailwindCSS |
-| **Mobile** | React Native (iOS/Android) |
-| **Infrastructure** | AWS Cloud, Terraform/CDK, ECS, Lambda, EventBridge, Aurora |
-| **CI/CD** | GitHub Actions, SonarCloud, CodeQL, Dependabot |
-| **Observability** | OpenTelemetry, CloudWatch, Grafana, X-Ray |
-| **Governance** | GitFlow/Trunk-Based, Semantic Versioning, ADRs |
-
-> The stack is continuously evolving with a strong focus on interoperability, automation, and developer productivity.
-
-## 🧭 Core Values
-
-| Value | Description |
-|--------|--------------|
-| **Quality** | Build sustainable, testable, and maintainable software. |
-| **Automation** | Eliminate repetitive work through smart pipelines and tools. |
-| **Security** | Integrate privacy and compliance into every process. |
-| **Scalability** | Design for growth and elasticity from day one. |
-| **Collaboration** | Empower distributed teams with clear communication and ownership. |
-| **Innovation** | Leverage AI and cloud technologies to accelerate delivery. |
-
-## 🧑‍💻 Contribution Guidelines
-
-We welcome contributions from internal teams and collaborators.
-
-1. Fork or create a feature branch.  
-2. Follow internal coding conventions and naming standards.  
-3. Include unit and integration tests for all changes.  
-4. Document new capabilities or modifications.  
-5. Submit a **Pull Request** with clear description and linked task/reference.  
-
-All pull requests are automatically validated via CI/CD and peer review.
-
-
-## 📞 Contact
-
-**Optimusbrand Technology Team**  
-📧 team@optimusbrand.com  
-🌐 [www.optimusbrand.com](https://www.optimusbrand.com)
+</div>
 
 ---
 
-© 2025 Optimusbrand. All rights reserved.  
-This repository and its submodules are licensed under the **Apache 2.0 License** unless otherwise specified.
+# 🚀 About Us
 
+**Optimus Brand** is a technology and product engineering company dedicated to building modern digital platforms that combine **Cloud Computing**, **Artificial Intelligence**, **Software Architecture**, **UX**, and **DevOps**.
 
+Our mission is to help organizations accelerate digital transformation by delivering scalable, secure, and high-quality software products.
+
+We believe software should be:
+
+- Scalable
+- Maintainable
+- Cloud Native
+- Secure by Design
+- AI Ready
+- Developer Friendly
+
+---
+
+# 🏥 Focus Areas
+
+We specialize in building products for:
+
+- Healthcare
+- FinTech
+- Enterprise Software
+- SaaS Platforms
+- Digital Transformation
+- AI Solutions
+- Mobile Applications
+- Cloud Infrastructure
+
+---
+
+# 🛠 Technology Stack
+
+## Backend
+
+- .NET 8+
+- ASP.NET Core
+- Minimal APIs
+- Entity Framework Core
+- PostgreSQL
+- SQL Server
+- Redis
+- Kafka
+- RabbitMQ
+
+## Frontend
+
+- Angular
+- React
+- React Native
+- TypeScript
+- Tailwind CSS
+
+## Cloud
+
+- AWS
+- Docker
+- Kubernetes
+- Amazon EKS
+- Amazon ECS
+- Lambda
+- API Gateway
+- Cognito
+- S3
+- CloudFront
+
+## DevOps
+
+- GitHub Actions
+- Terraform
+- SonarQube
+- OpenTelemetry
+- Prometheus
+- Grafana
+- Datadog
+
+---
+
+# 🤖 Artificial Intelligence
+
+We integrate AI into our products through:
+
+- Intelligent Assistants
+- Clinical Copilots
+- Speech-to-Text
+- OCR
+- Knowledge Retrieval
+- Prompt Engineering
+- LLM Integrations
+- Workflow Automation
+
+---
+
+# 🌍 Our Products
+
+## OpenDocto
+
+An AI-powered cloud-native healthcare platform that connects patients, healthcare professionals, and medical organizations through a modern ecosystem.
+
+Main capabilities include:
+
+- Electronic Health Records
+- Appointment Management
+- Telemedicine
+- Medical Prescriptions
+- Clinical AI Assistant
+- Healthcare Integrations
+- Multi-Tenant Architecture
+
+---
+
+## Optimus Framework
+
+A reusable set of frameworks, libraries, templates, and architectural components designed to accelerate software delivery while maintaining high engineering standards.
+
+---
+
+# 📦 Open Source
+
+We strongly believe in giving back to the developer community.
+
+This organization hosts:
+
+- Shared Libraries
+- Frameworks
+- Templates
+- Reference Architectures
+- Design Systems
+- Samples
+- SDKs
+- Developer Tools
+
+---
+
+# 🏗 Engineering Principles
+
+We build software following modern engineering practices.
+
+- Clean Architecture
+- Domain Driven Design
+- SOLID Principles
+- API First
+- Event Driven Architecture
+- Cloud Native
+- Twelve-Factor Applications
+- Secure by Design
+- Infrastructure as Code
+- Continuous Delivery
+
+---
+
+# ❤️ Quality First
+
+Every project follows engineering standards including:
+
+- Automated Testing
+- Static Code Analysis
+- Code Reviews
+- Continuous Integration
+- Continuous Deployment
+- Observability
+- Performance Monitoring
+- Security Best Practices
+
+---
+
+# 🌎 Our Vision
+
+Our vision is to become a global technology company recognized for building innovative software platforms that improve people's lives through engineering excellence and artificial intelligence.
+
+---
+
+# 🤝 Join Us
+
+We are always looking for talented people passionate about technology.
+
+Whether you are a:
+
+- Software Engineer
+- Product Designer
+- UX/UI Designer
+- DevOps Engineer
+- Cloud Architect
+- QA Engineer
+- AI Engineer
+- Product Manager
+
+we would love to connect.
+
+---
+
+# 📫 Contact
+
+🌐 Website
+
+https://optimusbrand.com
+
+📧 Email
+
+team@optimusbrand.com
+
+GitHub
+
+https://github.com/optimusbrand-technology
+
+---
+
+<div align="center">
+
+### Engineering the future with AI, Cloud and World-Class Software.
+
+Made with ❤️ by Optimus Brand
+
+</div>
