@@ -1,4 +1,5 @@
-<img width="3068" height="801" alt="Imagotipo Completo - Blaze Red" src="https://github.com/user-attachments/assets/ef427518-84e6-48a5-a461-2701932eb354" />
+![image](https://github.com/user-attachments/assets/9b8f20df-5ac0-4b01-a9a1-f7663acdc98c)
+
 <div align="center">
 
 ### Building AI-powered Cloud Native Software
