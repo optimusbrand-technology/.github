@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/9b8f20df-5ac0-4b01-a9a1-f7663acdc98c)
-
+![image](https://github.com/user-attachments/assets/c0bd70a9-8fd0-49f8-9b00-746d35b29aa4)
 <div align="center">
 
 ### Building AI-powered Cloud Native Software
